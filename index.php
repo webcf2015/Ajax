@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta charset="UTF-8">
-        <title></title>
+        <title>Ajax en Action</title>
     </head>
     <body>
         <?php
