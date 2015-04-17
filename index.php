@@ -7,7 +7,7 @@
     <body>
         <?php
         $bonjour = 'Salut les amis, vous allez bien ?';
-        echo $bonjour;
+        echo $bonjour.' Moi ça va?';
         ?>
     </body>
 </html>
