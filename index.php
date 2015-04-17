@@ -5,6 +5,9 @@
         <title></title>
     </head>
     <body>
-        
+        <?php
+        $bonjour = 'Saluuuuut8';
+        echo $bonjour;
+        ?>
     </body>
 </html>
