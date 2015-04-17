@@ -6,7 +6,7 @@
     </head>
     <body>
         <?php
-        $bonjour = 'Saluuuuut8';
+        $bonjour = 'Salut les amis';
         echo $bonjour;
         ?>
     </body>
